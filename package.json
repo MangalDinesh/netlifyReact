@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "app-builder-init",
-    "start:info": "app-builder-init --info"
+    "start:info": "app-builder-init --info",
+    "build": "npm install && npm run build"
   },
   "keywords": [],
   "license": "MIT",
