@@ -1,5 +1,5 @@
 {
-  "name": "agora-app-builder",
+  "name": "agora-app",
   "version": "1.0.0",
   "scripts": {
     "start": "app-builder-init",
