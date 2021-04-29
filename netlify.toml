@@ -1,4 +1,6 @@
-
+[build]
+  command = "npm install && npm run start && cd sdfsdf && npm run web:build && npm run copy-redirects"
+  publish = "build"
 
 [[redirects]]
   from = "/*"
