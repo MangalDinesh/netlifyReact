@@ -4,7 +4,7 @@
   "scripts": {
     "start": "app-builder-init",
     "start:info": "app-builder-init --info",
-    "build": "npm install && npm run build"
+    "build": "npm install && npm run start && cd sdfsdf && npm run web:build"
   },
   "keywords": [],
   "license": "MIT",
